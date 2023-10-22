@@ -1,0 +1,51 @@
+body { background: linear-gradient( 180deg, #71b7e6 , #9b59b6 );
+background-repeat: no-repeat; 
+height: 100vh;}
+.plan { 
+        width: 530px;
+        height: 400px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 2%;
+        box-shadow: 100px;
+        margin-left: 450px;
+        margin-top: 180px;
+        padding-left: 10px;
+        }
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+        
+.title1 { text-align: center;font-weight: bolder; font-size: large; font-family: Oswald, 'Times New Roman', Times, serif;
+padding-top: 10px;}
+.title2 {text-align: center; font-size: large;font-weight: 50; 
+}
+.name{
+        width: 250px;
+        height: 25px;
+      
+}
+.lastname{
+        width: 250px;
+        height: 25px;  
+        pad 
+}  
+.email{ width: 514px;
+        height: 25px;
+}  
+.phonenumber{width: 514px;
+        height: 25px;
+}
+.password{
+        width: 514px;
+        height: 25px;
+}
+.confirmation{
+        width: 514px;
+        height: 25px;
+}
+.button{
+        width: 522px;
+        height: 25px;
+        background: linear-gradient( 180deg, #71b7e6 , #9b59b6 );   
+        border: 0px;
+        border-radius: 5px;
+}
+.submit{ color: rgb(255, 255, 255); text-decoration: none;}
